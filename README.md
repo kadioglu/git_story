@@ -1,2 +1,9 @@
 # git_story
-***STORY***
+There will be a story in this file.
+
+CH1 (Esra)
+
+
+
+
+CH2 (Izzy)
